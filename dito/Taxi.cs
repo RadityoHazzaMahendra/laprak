@@ -12,6 +12,7 @@ namespace tugas
         public bool OnDuty { get; set; }
         public int NumPassanger { get; set; }
 
+
         public void TaxiInfo()
         {
             Console.WriteLine("Driver Name: {0}", DriverName);
