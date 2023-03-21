@@ -1,0 +1,2 @@
+D:\INFORMATIKA\semester 2\Pemograman\dito\dito\bin\Debug\dito.exe.config
+D:\INFORMATIKA\semester 2\Pemograman\dito\dito\obj\Debug\dito.csprojResolveAssemblyReference.cache
